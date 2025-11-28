@@ -11,15 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="30" height="30"/>
 </div>
 
-# 📊 GitHub:
-
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Riquehs&theme=radical)](https://git.io/streak-stats)
-
 ## 💼 Desenvolvendo em repositórios privados
 *💡 Contribuições ativas em projetos privados*
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riquehs&layout=compact&theme=radical&hide=html,css)
 
 ## 🏆 GitHub Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Riquehs&theme=radical&no-frame=true&row=2&column=4)
