@@ -14,11 +14,9 @@
 
 
 # 📊 GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquehs&show_icons=true&theme=radical)
+![Riquehs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquehs&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquehs&show_icons=true&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquehs&show_icons=true&theme=default)
+![Riquehs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riquehs&count_private=true&show_icons=true&theme=dark)
 
 # 📞 Contact:
  
