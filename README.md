@@ -14,9 +14,7 @@
 
 
 # 📊 GitHub:
-![Riquehs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riquehs&show_icons=true&theme=radical)
-
-![Riquehs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riquehs&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Riquehs&theme=dark)](https://git.io/streak-stats)
 
 # 📞 Contact:
  
