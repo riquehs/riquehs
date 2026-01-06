@@ -14,9 +14,6 @@
 ## 💼 Desenvolvendo em repositórios privados
 *💡 Contribuições ativas em projetos privados*
 
-## 🏆 GitHub Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Riquehs&theme=radical&no-frame=true&row=2&column=4)
-
 # 📞 Contact:
 <div> 
   <a href="https://instagram.com/riquehs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
