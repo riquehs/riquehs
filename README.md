@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,linux,redhat)](https://skillicons.dev)
 
 ## 💼 Desenvolvendo em repositórios privados
 *💡 Contribuições ativas em projetos privados*
